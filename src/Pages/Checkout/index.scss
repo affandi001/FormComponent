@@ -1,0 +1,49 @@
+.body{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.Selectpayment{
+    font-size: 24px ;
+    // font-weight: 600;
+}
+.main{
+    display: flex;
+    gap: 20px;
+    
+}
+.box{
+    height: 65px;
+    background-color:#F1F4FC;
+    border-radius: 11px;
+    width: 354px;
+    border: 2px solid #5680E9;
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.box-2{
+    
+        height: 65px;
+        background-color:#F1F4FC;
+        border-radius: 11px;
+        width: 145px;
+        border: 2px solid #5680E9;
+        margin-top: 24px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+        justify-content: center;
+    
+}
+.creditcards{
+    display: flex;
+    gap: 10px;
+}
+.p1{
+   font-size: 18px;
+}
